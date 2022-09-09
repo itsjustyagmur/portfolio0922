@@ -1,0 +1,42 @@
+
+.contact-options{
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    margin-left: 45vh;
+
+}
+.contact-option{
+    background: var(--color-bg-varient);
+    padding: 1.2rem;
+    border-radius: 1.2rem;
+    text-align: center;
+    border: 1px solid transparent;
+    transition: var(--transition);
+    width: 250px;
+}
+.contact-option:hover{
+    background: transparent;
+    color: var(--color-primary-varient);
+}
+.contact-option a{
+    margin-top: 0.7rem;
+    display: inline-block;
+    font-size: 0.8rem;
+}
+
+@media screen and (max-width: 1024px) {
+    .contact-options{
+grid-template-columns: 1fr;
+gap: 2rem;
+margin: 0;
+    }
+       }
+   
+   @media screen and (max-width: 600px) {
+    .contact-options{
+        width: var(--container-width-ms);
+        margin-left: 8vh;
+            }
+           }
