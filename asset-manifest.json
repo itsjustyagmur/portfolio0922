@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio0922.git/static/css/main.c88a6c8f.css",
-    "main.js": "/portfolio0922.git/static/js/main.67a9f3d8.js",
-    "static/media/bookclub.png": "/portfolio0922.git/static/media/bookclub.5a03cd0a94d4db93e884.png",
-    "static/media/compt.jpg": "/portfolio0922.git/static/media/compt.7bf87c5905eb55a5a7cc.jpg",
-    "index.html": "/portfolio0922.git/index.html",
-    "main.c88a6c8f.css.map": "/portfolio0922.git/static/css/main.c88a6c8f.css.map",
-    "main.67a9f3d8.js.map": "/portfolio0922.git/static/js/main.67a9f3d8.js.map"
+    "main.css": "/portfolio0922/static/css/main.c88a6c8f.css",
+    "main.js": "/portfolio0922/static/js/main.33e36996.js",
+    "static/media/bookclub.png": "/portfolio0922/static/media/bookclub.5a03cd0a94d4db93e884.png",
+    "static/media/compt.jpg": "/portfolio0922/static/media/compt.7bf87c5905eb55a5a7cc.jpg",
+    "index.html": "/portfolio0922/index.html",
+    "main.c88a6c8f.css.map": "/portfolio0922/static/css/main.c88a6c8f.css.map",
+    "main.33e36996.js.map": "/portfolio0922/static/js/main.33e36996.js.map"
   },
   "entrypoints": [
     "static/css/main.c88a6c8f.css",
-    "static/js/main.67a9f3d8.js"
+    "static/js/main.33e36996.js"
   ]
 }
